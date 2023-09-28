@@ -1,0 +1,31 @@
+{
+  "medicines": [
+    {
+      "id": "1",
+      "name": "VITA PLUS",
+      "dosage": "1 قرص كل صباح",
+      "positiveDescription": "الفيتامينات المتعددة مع A، C، D، E، الزنك، الحديد. يقوي جهاز المناعة",
+      "negativeDescription": "قد تسبب الجرعة الزائدة الغثيان واضطراب المعدة",
+      "image": "assets/1.png",
+      "instruction": "1 قرص كل صباح لتناول الإفطار"
+    },
+    {
+      "id": "2",
+      "name": "Quercetine",
+      "dosage": "500 إلى 1000 مجم يوميًا",
+      "positiveDescription": "مضاد الأكسدة الطبيعي يساعد على تقليل الالتهاب وتقوية جهاز المناعة",
+      "negativeDescription": " يمكن أن يسبب الاستهلاك المفرط اضطرابات في المعدة أو ردود فعل تحسسية لدى بعض الأشخاص الحساسين.",
+      "image": "assets/2.png",
+      "instruction": " تناول كبسولة واحدة من الكيرسيتين يوميًا مع وجبة"
+    },
+    {
+      "id": "3",
+      "name": "MG 2 PLUS",
+      "dosage": "122 مجم لكل 10 مل",
+      "positiveDescription": "يوفر من المركب النشط ",
+      "negativeDescription": " لا توجد آثار سلبية معروفة.",
+      "image": "assets/3.png",
+      "instruction": " عن طريق الفم مع كوب من الماء"
+    }
+  ]
+}
